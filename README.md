@@ -8,6 +8,8 @@ Clone this repo and build in VS2017. I use the ImageMagick Library for modifying
 
 Compiling will give you FolderPalette.exe.
 
+Make sure you place the baseicon.ico file in the same directory as your FolderPalette.exe file. This icon is normally hidden.
+
 To color a folder use:
 
 `FolderPalette /color FOLDERPATH R G B`
